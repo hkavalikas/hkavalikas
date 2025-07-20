@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-I'm **Harry (Charalampos) Kavalikas**, a London-based backend engineer specializing in scalable systems and cloud architecture
+I'm **Harry (Charalampos) Kavalikas**, a London-based backend engineer specialising in scalable systems and cloud architecture
 
 - 🚀 Currently building amazing things at [Hyper SQ](https://hyper-sq.com) as a Founding Software Engineer
+- 👨‍🏫 Volunteer at [CodeYourFuture](https://codeyourfuture.io/), helping aspiring developers break into tech
 - 🔧 I'm passionate about backend development, cloud infrastructure, and creating robust solutions
 - 🌱 Currently exploring advanced LLM integration patterns and AI-driven development workflows
 - 👤 Connect with me on [LinkedIn](https://www.linkedin.com/in/charalampos-kavalikas/)
-- ⚡ Fun fact: When I'm not coding, you'll find me traveling ✈️, having unhealthy amounts of coffee ☕️, hosting board game nights 🎲, or dancing 💃
+- ⚡ Fun fact: When I'm not coding, you'll find me travelling ✈️, having unhealthy amounts of coffee ☕️, hosting board game nights 🎲, or dancing 💃
 
 <h2>Things I code with</h2>
 <p>
